@@ -6,7 +6,7 @@
 - This mailing-client was created to help automate sending emails using a Google account
 - Created using Python and the smtplib module
 - The project is implemented in a way that anyone can download it and automate the process of sending messages to any recipient
-- This is the password that you'll use when using this script
+
 
 
 
@@ -33,6 +33,7 @@ a 16 character password which will be used to allow this script to sign in
 - Once set up, navigate over to https://myaccount.google.com/apppasswords
 - On this page under the drop down for **Select app** go ahead and select **Other(custom name)**
 - On the next screen pick a name and then generate the key
+- This is the password that you'll use when using this script
 
 
     
