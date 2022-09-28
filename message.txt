@@ -1,0 +1,6 @@
+Hello There!
+
+This is a test!
+
+Mail-Client script has run successfully.
+
